@@ -2,7 +2,7 @@
 
 ## Scrutinizer Badges
 
-[![Scrutinizer][![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/jacobLandefjall/mvc/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/jacobLandefjall/mvc/?branch=main)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/jacobLandefjall/mvc/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/jacobLandefjall/mvc/?branch=main)
 [![Coverage](https://scrutinizer-ci.com/g/jacobLandefjall/mvc/badges/coverage.png?b=main)](https://scrutinizer-ci.com/g/jacobLandefjall/mvc/?branch=main)
 [![Build](https://scrutinizer-ci.com/g/jacobLandefjall/mvc/badges/build.png?b=main)](https://scrutinizer-ci.com/g/jacobLandefjall/mvc/build-status/main)
 
